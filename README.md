@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joy Mallick</h1>
 <h3 align="center">A 21 years old self-taught,passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/89344646/173016832-a0779f1a-4435-440f-a6e8-7499a99d9687.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joy8240&label=Profile%20views&color=0e75b6&style=flat" alt="joy8240" /> </p>
 
