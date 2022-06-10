@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Joy Mallick</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A 21 years old self-taught,passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joy8240&label=Profile%20views&color=0e75b6&style=flat" alt="joy8240" /> </p>
 
-- 🔭 I’m currently working on **NextJs , Unity**
+ - 🧑‍💻 Contributing to **Open Source**
 
 - 📫 How to reach me **joy.mallick.uemk.cs.2023@gmail.com**
 
-- ⚡ Fun fact **I think i am friendly.**
+- ⚡ Fun fact *My name is JOY !*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
