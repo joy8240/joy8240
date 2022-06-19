@@ -11,7 +11,7 @@
 
 - Having an interest in Video editing ,Adobe XD, Lightroom
 
-- Do check out my portfolio: https://joymallickportfolio.netlify.app/
+- About me  :http://about.me/joymallick
 
 - ⚡ Fun fact *My name is JOY !*
 
