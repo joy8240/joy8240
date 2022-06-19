@@ -1,16 +1,21 @@
 ![Hello](https://user-images.githubusercontent.com/89344646/173019886-5fd9ceb2-164d-433d-859b-c6eaddd23cac.gif)
 
 <h1 align="center"> JOY  MALLICK</h1>
-<h3 align="center">A 21 years old self-taught,passionate frontend developer from India</h3>
+<h3 align="center">I'm self motivated, a good listener and a quick learner , i love to explore new technologies ,I always focus on gaining experience and to effectively use my strengths in a motivated and disciplined environment that would utilise my ability and facilitate in my growth.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/89344646/173016832-a0779f1a-4435-440f-a6e8-7499a99d9687.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joy8240&label=Profile%20views&color=0e75b6&style=flat" alt="joy8240" /> </p>
 
  - 🧑‍💻 Contributing to **Open Source**
+- Currently working on back-end projects build with NodeJs ,MongoDB & JavaScript
 
-- 📫 How to reach me **joy.mallick.uemk.cs.2023@gmail.com**
+- Having an interest in Video editing ,Adobe XD, Lightroom
+
+- Do check out my portfolio: https://joymallickportfolio.netlify.app/
 
 - ⚡ Fun fact *My name is JOY !*
+
+- Like to join me?  👇
 
 <br>
 <br>
